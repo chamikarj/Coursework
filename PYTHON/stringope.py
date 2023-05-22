@@ -1,0 +1,10 @@
+detais = "chamika, coding ,walata, waddek"
+print(len(detais))
+print(detais.count("a"))
+print(detais.upper())
+print(detais.count("d"))
+print(detais.index("a"))
+print(detais[1:6])
+print(detais[1:15:4])
+print(detais.split(","))
+print(detais.endswith("ek"))
